@@ -1,0 +1,19 @@
+body {
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.para1 {
+    font-size: 33px;
+    text-align: left;
+    
+}
+
+.img{
+    text-align: center;
+}
